@@ -1,0 +1,17 @@
+Controls Instructions
+Select - Press Enter 
+Pause - Press Escape 
+Move Right - Press Right Arrow
+Move Left - Press Left Arrow 
+Jumping - Press W
+Sprinting - Press E
+Fireball Spell - Press R
+Dash Attack - Press F
+Fireball Spell Attack Up - Press Up Arrow + R
+Double Jump - Press W twice 
+Sprint Jump - Press Right Arrow + E + W
+Jump Dash Attack - Press W + F
+Sprint Jump Dash Attack- Press Right Arrow + E then W and F or Press Left Arrow + E then W and F.
+
+
+
